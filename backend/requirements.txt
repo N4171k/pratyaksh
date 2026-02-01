@@ -1,0 +1,31 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-dotenv==1.0.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# Google APIs
+google-auth==2.27.0
+google-auth-oauthlib==1.2.0
+google-api-python-client==2.116.0
+
+# AI
+groq==0.4.1
+
+# HTTP Client
+httpx==0.26.0
+
+# Redis
+redis==5.0.1
+
+# Email
+email-validator==2.1.0
+
+# Utilities
+python-multipart==0.0.6
+tenacity==8.2.3
+
+# Development
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
